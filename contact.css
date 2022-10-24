@@ -1,0 +1,106 @@
+body{
+  background-image: url("https://img.freepik.com/free-vector/realistic-galaxy-background_23-2148991322.jpg?w=996&t=st=1666367593~exp=1666368193~hmac=77886e03edab085c92b4816e1bf8661f3a03a32d0e7092da4227ef5eada53c31");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+.navbar-static-top{
+  z-index: 1000;
+  
+}
+
+.gmail{
+  font-size: large;
+  color: aliceblue;
+}
+.navbar{
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+}
+
+.section-header{
+  text-align: center;
+  margin-left: 0;
+  padding-top: 0px;
+  margin-top: 0%;
+  background: linear-gradient(to right,rgb(109, 98, 235) 25%,yellow 51%,rgb(107, 8, 107) 75%);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold; padding: 2px;
+  width: 100%;
+  padding-right: 0%;
+  margin-right: 0%;
+  border-radius: 50%;
+}
+.brandImg{
+  position: absolute;
+  height: 60px;
+  left: 10px;
+  top: 10px;
+}
+
+.brandName{
+  position: absolute;
+  top: 0.5px;
+  left: 80px;
+  color: aliceblue;
+}
+
+.row-1{
+  position: relative;
+  min-height: 1px;
+  padding-top: 2px;
+  margin-left: 0;
+  color: aliceblue;
+}
+.col-1{
+  align-items: left;
+  position: absolute;
+  padding-left: 300px;
+  padding-right: 600px;
+}
+.col-2{
+  align-items: right;
+  position: absolute;
+  padding-left: 900px;
+  padding-right: 300px;
+}
+
+.txt{
+  color:white;
+  font-size: large;
+}
+.row-2{
+  position: relative;
+  min-height: 1px;
+  padding-top: 310px;
+  color:aliceblue;
+}
+
+.row-3{
+  margin-top: 310px;
+  margin-bottom: 0%;
+  margin-left: 370px;
+}
+.number-2{
+  padding-left: 500px;
+}
+.row-4{
+  margin-top: 0%;
+  margin-left: 370px;
+}
+.name-2{
+  padding-left: 470px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+.img{
+  padding-right: 0.5%;
+  padding-bottom: 0%;
+}
+
+
